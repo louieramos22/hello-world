@@ -1,2 +1,5 @@
 # hello-world
-Hello World
+
+Greetings!
+
+Luis here. Just learning about Github by doing this tutorial.
